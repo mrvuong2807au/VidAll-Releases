@@ -1,0 +1,4 @@
+status=ok
+message=He thong dang hoat dong
+version=1.0.0
+Liên hệ hỗ trợ - Zalo: 0988660536
