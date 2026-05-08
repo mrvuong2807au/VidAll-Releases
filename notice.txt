@@ -1,2 +1,2 @@
-🟢 VidAll Update V1.0.7 
-https://drive.google.com/file/d/1quuJmi8OwL20fC5AQQL2ke41Orm2E96K/view?usp=sharing
+🟢 VidAll Update V1.0.8
+Fix Lỗi text chưa đồng bộ xuất video.
