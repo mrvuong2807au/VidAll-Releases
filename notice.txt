@@ -1,2 +1,2 @@
-🟢 VidAll Update V1.0.8
-Fix Lỗi text chưa đồng bộ xuất video.
+🟢 VidAll Update V1.0.9
+Fix Lỗi text, wright chatgpt, profile dịch
