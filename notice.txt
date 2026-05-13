@@ -1,2 +1,2 @@
-🟢 VidAll Update V1.0.11
-
+🟢 VidAll Update V1.0.12
+tăng luồng capcut web TTS, thêm chức năng tạo Thumnail, fix một số lỗi nhỏ.
