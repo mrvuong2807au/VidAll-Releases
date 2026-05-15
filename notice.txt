@@ -1,2 +1,2 @@
-📢 VidAll Update V1.0.16 (14/05/2026)
-update auto update, download, audio voice trong video preview, xuất video dài.
+📢 VidAll Update V1.0.19 (15/05/2026)
+update giao diện, thêm tính năng cắt video.
